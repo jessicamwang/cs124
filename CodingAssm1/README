@@ -1,0 +1,6 @@
+make randmst will create ./randmst
+
+./randmst 0 num_vertices num_trials num_dimensions
+
+./test.sh
+will output results of 2^4 - 2^17 vertices into 4 output files with the results of each individual set of 5 trials
